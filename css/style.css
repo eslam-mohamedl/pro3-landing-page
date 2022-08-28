@@ -1,0 +1,180 @@
+*{
+    padding:0;
+    margin:0;
+    font-family:0;
+    box-sizing:border-box;
+
+}
+body{
+}
+#etit-header{
+    color:#e67e22;
+}
+/*start  section in background*/
+.background{
+     background:url(../photo/daniel-leone-v7daTKlZzaw-unsplash.jpg)  no-repeat center center fixed;
+    background-size:cover;
+    height:100vh;
+    margin:0;
+    padding-top:270px;
+    padding-bottom:400px;
+    padding-left:60px;
+    padding-right:60px;
+}
+.background h1,
+.background p{
+
+   color:#ddd;        
+}
+/*end section in background*/
+
+/*start section in files*/
+.files{
+    
+     background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,.1)),url(../background/2.jpg);
+
+     padding-bottom: 50px;
+ 
+}
+.box-one{
+  padding-bottom:70px;
+  padding-top:50px;
+  
+}
+.box-two{
+}
+.plane-one{
+    padding-top:70px;
+   
+    padding-bottom:70px;
+    background:#f1f1f1;
+    margin-bottom:20px;
+}
+#edit-icon{
+    color:#e67e22;
+}
+#p-file{
+    line-height:30px;
+}
+
+/*end section in files*/
+
+/*start section about*/
+.about {
+    
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,.5),rgba(0,0,0,.5)),url(../photo/66.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top:80px;
+    padding-bottom:80px;
+    padding-left:60px;
+    padding-right:60px;
+    
+}
+.about h1{
+    text-transform:capitalize;
+    color:#f1f1f1;
+    padding-bottom:30px;
+}
+.about p{
+       color:#f1f1f1;
+      line-height:25px;
+}
+/*end section about*/
+/*start section features*/
+.background p{
+    font-size:20px;
+    text-transform:capitalize;
+}
+.features{
+    background:#f1f1f1;
+    padding-top:70px;
+    padding-bottom:70px;
+    padding-left:60px;
+    padding-right:60px;
+}
+.features h1{
+    text-transform:capitalize;
+}
+/*end section features*/
+
+/*start section out-team*/
+.our-team{
+    background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,.2),rgba(0,0,0,.2)),url(../background/2.jpg);
+    padding-bottom:90px;
+}
+.part-one{
+    padding-top:40px;
+    padding-bottom:40px;
+}
+#h-team{
+    text-transform:capitalize
+}
+
+.page-one{
+    background:#f1f1f1;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.page-one p{
+}
+
+#image-team{
+    border-radius:50%;
+    padding-top:20px;
+    padding-bottom:20px;}
+#p-team{
+    line-height:28px;
+}
+/*end section out-team*/
+
+/*start  section footer*/
+.footer{
+    background:#111;
+    padding-top:60px;
+    padding-bottom:60px;
+
+}
+
+.one-hite{
+    text-transform:capitalize;
+        color:#999;
+
+}
+.p-one{
+    line-height:25px;
+        padding-bottom:30px;
+    color:#666;
+
+}
+.p-two{  
+    line-height:36px;
+    border-bottom:1px solid #666;
+        color:#666;
+}
+.p-none{
+    border-bottom:none;
+            color:#666;
+
+}
+#icon-one{
+    text-decoration:none;
+    font-size:18px;
+    color:#666;
+    
+}
+#size-icon{
+    padding-top:16px;
+    color:#666;
+}
+#size-icon:hover{
+    color:#f1f1f1;
+    cursor:pointer;
+}
+.copyright{
+    padding-top:30px;
+    border-top:1px solid #666;
+    color:#666;
+
+}
+/*end section footer*/
